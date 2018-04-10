@@ -1,11 +1,12 @@
 function setup_canvas(){
-	console.log("setting up canvas");
+	// setting up canvas
+	background("#222");
 }
 
 function draw_loop(){
-	console.log("main draw loop");
+	// main draw loop
 }
 
 function canvas_resize(){
-	console.log("canvas was resized");
+	// canvas was resized
 }
