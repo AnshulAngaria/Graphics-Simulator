@@ -1,5 +1,7 @@
 function setup_canvas(){
 	// setting up canvas
+	canvas.width = window.innerWidth;
+	canvas.height = window.innerHeight;
 	background("#222");
 }
 
